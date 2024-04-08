@@ -1,0 +1,242 @@
+ Programa Arvore binaria de long
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 15
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 10
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 25
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 13
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 7
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 2
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 45
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 20
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 23
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 37
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 4
+
+ Exibindo em ordem: 2 7 10 13 15 20 23 25 37 45
+ Exibindo em pos-ordem: 2 7 13 10 23 20 37 45 25 15
+ Exibindo em pre-ordem: 15 10 7 2 13 25 20 23 45 37
+ Altura da arvore: 3
+ Quantidade de folhas: 4
+ Quantidade de Nós: 10
+ Valor minimo: 2
+ Valor maximo: 45
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 1
+
+ Informe o valor (long) -> 6
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 4
+
+ Exibindo em ordem: 2 6 7 10 13 15 20 23 25 37 45
+ Exibindo em pos-ordem: 6 2 7 13 10 23 20 37 45 25 15
+ Exibindo em pre-ordem: 15 10 7 2 6 13 25 20 23 45 37
+ Altura da arvore: 4
+ Quantidade de folhas: 4
+ Quantidade de Nós: 11
+ Valor minimo: 2
+ Valor maximo: 45
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 2
+
+ Informe o valor (long) -> 10
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 4
+
+ Exibindo em ordem: 2 6 7 13 15 20 23 25 37 45
+ Exibindo em pos-ordem: 6 2 7 13 23 20 37 45 25 15
+ Exibindo em pre-ordem: 15 13 7 2 6 25 20 23 45 37
+ Altura da arvore: 4
+ Quantidade de folhas: 3
+ Quantidade de Nós: 10
+ Valor minimo: 2
+ Valor maximo: 45
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 2
+
+ Informe o valor (long) -> 20
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+-> 4
+
+ Exibindo em ordem: 2 6 7 13 15 23 25 37 45
+ Exibindo em pos-ordem: 6 2 7 13 23 37 45 25 15
+ Exibindo em pre-ordem: 15 13 7 2 6 25 23 45 37
+ Altura da arvore: 4
+ Quantidade de folhas: 3
+ Quantidade de Nós: 9
+ Valor minimo: 2
+ Valor maximo: 45
+
+***********************************
+Entre com a opcao:
+ ----1: Inserir
+ ----2: Excluir
+ ----3: Pesquisar
+ ----4: Exibir
+ ----5: Sair do programa
+***********************************
+->
